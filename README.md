@@ -1,4 +1,6 @@
-## my first repo  👋
+## This IS My First Repositery
+<br>
+Author Name: Minahil Amjad👋
 
 <!--
 **minahilmirza-only/minahilmirza-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
