@@ -30,12 +30,84 @@
 ---
 
 ---
+ ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Repository Link |
-| :--- | :--- | :--- | :--- |
-| **Espresso Yourself** | Interactive and responsive coffee shop landing page. | HTML, CSS, JavaScript | [View Code](https://github.com/minahilmirza-only/Coffee-Shop-Landing) |
-| **Web Calculator** | Interactive calculator with keyboard event support & arithmetic operations. | HTML, CSS, JavaScript | [View Code](https://github.com/minahilmirza-only/Code-Alpha-Projects) |
-| **Interactive Image Gallery** | Responsive grid-layout photo gallery with multi-section navigation. | HTML5, CSS Grid | [View Code](https://github.com/minahilmirza-only/Code-Alpha-Projects) |
-| **Personal Portfolio** | Multi-section portfolio displaying coursework, technical skills, and projects. | HTML5, CSS3 | [View Code](https://github.com/minahilmirza-only/minahilmirza-only) |
+<div align="center">
+
+<!-- Project 1: Coffee Shop -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=500&auto=format&fit=crop&q=60" width="100%" alt="Espresso Yourself Banner" />
+    </td>
+    <td width="50%">
+      <h3>☕ Espresso Yourself</h3>
+      <p>Interactive and responsive landing page for a coffee shop featuring dynamic menu display and smooth layout.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
+      <a href="https://github.com/minahilmirza-only/Coffee-Shop-Landing" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Project 2: Calculator -->
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>🧮 Web Calculator</h3>
+      <p>Interactive web application supporting standard arithmetic calculations and keyboard event listeners.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
+      <a href="https://github.com/minahilmirza-only/Code-Alpha-Projects" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=500&auto=format&fit=crop&q=60" width="100%" alt="Calculator Banner" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Project 3: Image Gallery -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&auto=format&fit=crop&q=60" width="100%" alt="Image Gallery Banner" />
+    </td>
+    <td width="50%">
+      <h3>🖼️ Interactive Image Gallery</h3>
+      <p>Responsive photo gallery built with modern CSS Grid layouts and multi-section visual navigation.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS Grid</p>
+      <a href="https://github.com/minahilmirza-only/Code-Alpha-Projects" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Project 4: Personal Portfolio -->
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>Multi-section developer portfolio displaying academic achievements, technical proficiencies, and repository showcases.</p>
+      <p><b>Tech Stack:</b> HTML5, CSS3</p>
+      <a href="https://github.com/minahilmirza-only/minahilmirza-only" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&auto=format&fit=crop&q=60" width="100%" alt="Portfolio Banner" />
+    </td>
+  </tr>
+</table>
+
+</div>
