@@ -21,6 +21,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minahilmirza-only&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilmirza-only&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minahilmirza-only&show_icons=true&theme=tokyonight" alt="Minahil's GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilmirza-only&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
