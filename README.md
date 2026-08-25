@@ -21,6 +21,8 @@
 
 ## 📊 GitHub Stats
 
-![Minahil's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minahilmirza-only&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minahilmirza-only&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=minahilmirza-only&show_icons=true&theme=tokyonight" alt="Minahil's GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minahilmirza-only&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
