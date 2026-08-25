@@ -26,3 +26,16 @@
   <br /><br />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minahilmirza-only&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Repository Link |
+| :--- | :--- | :--- | :--- |
+| **Espresso Yourself** | Interactive and responsive coffee shop landing page. | HTML, CSS, JavaScript | [View Code](https://github.com/minahilmirza-only/Coffee-Shop-Landing) |
+| **Web Calculator** | Interactive calculator with keyboard event support & arithmetic operations. | HTML, CSS, JavaScript | [View Code](https://github.com/minahilmirza-only/Code-Alpha-Projects) |
+| **Interactive Image Gallery** | Responsive grid-layout photo gallery with multi-section navigation. | HTML5, CSS Grid | [View Code](https://github.com/minahilmirza-only/Code-Alpha-Projects) |
+| **Personal Portfolio** | Multi-section portfolio displaying coursework, technical skills, and projects. | HTML5, CSS3 | [View Code](https://github.com/minahilmirza-only/minahilmirza-only) |
