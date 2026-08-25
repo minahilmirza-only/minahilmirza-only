@@ -47,7 +47,7 @@
       <p>Interactive and responsive landing page for a coffee shop featuring dynamic menu display and smooth layout.</p>
       <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
       <a href="https://github.com/minahilmirza-only/Coffee-Shop-Landing" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
   </tr>
@@ -63,7 +63,7 @@
       <p>Interactive web application supporting standard arithmetic calculations and keyboard event listeners.</p>
       <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript</p>
       <a href="https://github.com/minahilmirza-only/Code-Alpha-Projects" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -85,7 +85,7 @@
       <p>Responsive photo gallery built with modern CSS Grid layouts and multi-section visual navigation.</p>
       <p><b>Tech Stack:</b> HTML5, CSS Grid</p>
       <a href="https://github.com/minahilmirza-only/Code-Alpha-Projects" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
   </tr>
@@ -101,7 +101,7 @@
       <p>Multi-section developer portfolio displaying academic achievements, technical proficiencies, and repository showcases.</p>
       <p><b>Tech Stack:</b> HTML5, CSS3</p>
       <a href="https://github.com/minahilmirza-only/minahilmirza-only" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
     <td width="50%" align="center">
